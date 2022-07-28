@@ -40,6 +40,7 @@ p {
     padding: 10px;
     word-wrap: break-word;
     word-break: break-all;
+    border-radius: 0.5em;
 }
 
 .output .display {
@@ -47,6 +48,7 @@ p {
     font-size: 1.85rem;
     text-align: right;
     background-color: #ECEDF6;
+    border-radius: 0.5em;
 }
 
 /*.result{

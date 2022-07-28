@@ -29,6 +29,7 @@ botonIgual.addEventListener('click', function(){
 
 botonDelete.addEventListener('click', function(){
     clear();
+    agregarNumero();
     //actualizarDisplay();
 });
 
